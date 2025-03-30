@@ -7,7 +7,10 @@ def maior_palavra(lista):
 def menor_palavra(lista):
     if not lista:
         return None, 0
-    min_palavra = min(lista, key=len)
+    min_palavra = lista[0]
+    for i in lista:
+        if len(i) < len(min_palavra):
+            min_palavra = i
     return min_palavra, len(min_palavra)
 
 
