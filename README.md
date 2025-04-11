@@ -2,7 +2,7 @@
 
 # Sobre o Repositório
 
-Este repositório contém exercícios elaborados durante a mentoria da plataforma Impacto ministrada por Rafael Gottardi(Fino).
+Este repositório contém exercícios elaborados durante a mentoria da Turma7 Oracle One, ministrada por Rafael Gottardi(Fino).
 
 ## Lista de Funções
 
